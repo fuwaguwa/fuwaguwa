@@ -22,8 +22,8 @@
 </p>
 <p align="center">
     <a href="https://github.com/fuwaguwa" style="width: 100%">
-        <img src="https://fuwafuwa-readme-stats.vercel.app/api?username=fuwaguwa&show_icons=true&count_private=true&hide=prs,issues&theme=transparent" height="160px">
-        <img src="https://fuwafuwa-readme-stats.vercel.app/api/top-langs/?username=fuwaguwa&show_icons=true&theme=transparent" height="160px">
+        <img src="https://fuwafuwa-readme-stats.vercel.app/api?username=fuwaguwa&show_icons=true&count_private=true&hide=prs,issues&theme=transparent" height="140px"/>
+        <img src="https://fuwafuwa-readme-stats.vercel.app/api/top-langs/?username=fuwaguwa&show_icons=true&layout=compact&theme=transparent" height="140px"/>
     </a>
 </p>
 
