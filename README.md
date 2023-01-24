@@ -17,13 +17,11 @@
 ## About Me
 
 <p align="center">
-    <a href="https://discord.gg/NFkMxFeEWr"><img src="https://img.shields.io/discord/1020960562710052895?label=Discord%20Server&style=flat-square"></a>
-    <a href="https://discordapp.com/users/836215956346634270"><img src="https://img.shields.io/badge/Discord-Fuwafuwa%232272-%23404eed?style=flat-square"></a>
-</p>
-<p align="center">
+    <a href="https://discord.gg/NFkMxFeEWr">
+        <img src="https://lanyard.cnrad.dev/api/836215956346634270?bg=1a1c1f" height="140px"/>
+    </a>
     <a href="https://github.com/fuwaguwa" style="width: 100%">
-        <img src="https://fuwafuwa-readme-stats.vercel.app/api?username=fuwaguwa&show_icons=true&count_private=true&hide=prs,issues&theme=transparent" height="140px"/>
-        <img src="https://fuwafuwa-readme-stats.vercel.app/api/top-langs/?username=fuwaguwa&show_icons=true&layout=compact&theme=transparent" height="140px"/>
+        <img src="https://fuwafuwa-readme-stats.vercel.app/api/top-langs/?username=fuwaguwa&show_icons=true&layout=compact&theme=transparent&hide_border=true&bg_color=1a1c1f" height="140px"/>
     </a>
 </p>
 
