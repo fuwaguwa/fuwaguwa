@@ -1,3 +1,10 @@
+# Hi, I'm Fuwaguwa! 👋
+* 🔍 | I also go by *Fuwafuwa* or *Fluff*.
+* 🧑‍💻 | **High Schooler** and **Hobbyist Programmer** that comes from Vietnam!
+* 💖 | I enjoy creating **back-end applications** with Node.js and TypeScript.
+* 😀 | A person who learns best by doing, any contributions to my projects is always appreciated!
+* 👋 | You can contact me using [Discord](https://discord.gg/NFkMxFeEWr), either via my server or directly messaging me!
+  
 ## Technologies
 
 <p align="center">
@@ -15,7 +22,8 @@
     <img src="assets/uoh.gif" height="50px" width="50px">
 </p>
 
-## About Me
+## More Information
+
 <p align="center">
     <a href="https://discord.gg/NFkMxFeEWr" style="width: 100%">
         <img src="https://lanyard.cnrad.dev/api/836215956346634270?bg=1a1c1f" height="150px"/>
