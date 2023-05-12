@@ -26,14 +26,16 @@
 
 ## Contact & More
 
+<!--
 <p align="center">
     <a href="https://discord.gg/NFkMxFeEWr" style="width: 100%">
         <img src="https://lanyard.cnrad.dev/api/836215956346634270?bg=1a1c1f" height="150px"/>
     </a>
     <a href="https://wakatime.com/@fuwaguwa" style="width: 100%">
-        <img src="https://fuwafuwa-readme-stats.vercel.app/api/wakatime?username=fuwaguwa&hide_border=true&bg_color=1a1c1f&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&v=2&layout=compact" height="150px">
+        <img src="https://fuwafuwa-readme-stats.vercel.app/api/wakatime?username=fuwaguwa" height="150px">
     </a>
 </p>
+-->
 
 <p align="center">
     <a href="https://github.com/fuwaguwa" style="width: 100%">
