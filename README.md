@@ -12,7 +12,6 @@
     <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript"></a>
     <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript"></a>
     <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python"></a>
-    <a href="https://www.java.com/en/"><img src="https://skillicons.dev/icons?i=java"></a>
     <a href="https://nodejs.org/en/"><img src="https://skillicons.dev/icons?i=nodejs"></a>
     <a href="https://mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb"></a>
     <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel"></a>
