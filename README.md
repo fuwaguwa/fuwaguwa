@@ -41,6 +41,3 @@
         <img src="https://fuwafuwa-readme-stats.vercel.app/api/top-langs/?username=fuwaguwa&show_icons=true&layout=compact&hide_border=true&bg_color=1a1c1f" height="136px"/>
     </a>
 </p>
-
-
----
