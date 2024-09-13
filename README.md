@@ -1,6 +1,6 @@
-# Hi, I'm Fuwaguwa! 👋
-* 🔍 | I also go by *Fuwafuwa* or *Fluff*.
-* 🧑‍💻 | I'm a **high-schooler** and a **hobbyist programmer** that comes from Vietnam!
+# Hi, I'm Fuwafuwa! 👋
+* 🔍 | I also go by *Fuwaguwa* or *Fluff*.
+* 🧑‍💻 | I'm a **student** that comes from Vietnam!
 * 💖 | I'm interested in **back-end development** and creating applications with **Node.js** and **TypeScript**.
 * 🔨 | I usually work on anything that I can think of in my free-time, most of which are very random.
 * 😀 | I'm a person who learns best by doing, any contributions to my projects is always appreciated!
@@ -44,7 +44,3 @@
 
 
 ---
-
-<p align="center">
-    <a href="https://m.weibo.cn/status/4830416491514099"><img src="assets/ceobe.png" height="450px"></a>
-<p>
