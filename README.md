@@ -4,7 +4,7 @@
 * 💖 | I'm interested in **back-end development** and creating applications with **Node.js** and **TypeScript**.
 * 🔨 | I usually work on anything that I can think of in my free-time, most of which are very random.
 * 😀 | I'm a person who learns best by doing, any contributions to my projects is always appreciated!
-* 👋 | You can contact me using [Discord](https://discord.gg/NFkMxFeEWr), either via my server or directly messaging me!
+* 👋 | You can contact me using Discord, either via my server or directly messaging me!
   
 ## Technologies
 
@@ -27,7 +27,7 @@
 
 
 <p align="center">
-    <a href="https://discord.gg/NFkMxFeEWr" style="width: 100%">
+    <a style="width: 100%">
         <img src="https://lanyard.cnrad.dev/api/836215956346634270?bg=1a1c1f" height="150px"/>
     </a>
     <a href="https://wakatime.com/@fuwaguwa" style="width: 100%">
@@ -41,3 +41,4 @@
         <img src="https://fuwafuwa-readme-stats.vercel.app/api/top-langs/?username=fuwaguwa&show_icons=true&layout=compact&hide_border=true&bg_color=1a1c1f" height="136px"/>
     </a>
 </p>
+
