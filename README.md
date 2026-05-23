@@ -1,10 +1,10 @@
 # Hi, I'm Fuwafuwa! 👋
 * 🔍 | I also go by *Fuwaguwa* or *Fluff*.
-* 🧑‍💻 | I'm a **student** that comes from Vietnam!
+* 🧑‍💻 | I'm a Vietnamese!!!
 * 💖 | I'm interested in **back-end development** and creating applications with **Node.js** and **TypeScript**.
 * 🔨 | I usually work on anything that I can think of in my free-time, most of which are very random.
-* 😀 | I'm a person who learns best by doing, any contributions to my projects is always appreciated!
-* 👋 | You can contact me using Discord, either via my server or directly messaging me!
+* 👋 | You can contact me using Discord
+* 😎 | My website: https://fuwawa.moe
   
 ## Technologies
 
